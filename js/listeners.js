@@ -3170,7 +3170,7 @@ window.toggleCollapsedExtras = function() {
             extra.addEventListener('click', (e) => { e.stopPropagation(); primary.click(); });
         }
     }
-    wireExtra('combo-btn-extra', 'combo-btn');
+    wireExtra('continue-btn-extra', 'continue-btn');
     wireExtra('batch-btn-extra', 'batch-btn');
 };
 
