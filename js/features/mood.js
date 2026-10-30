@@ -205,10 +205,10 @@ function toggleBatchFavoriteMode() {
 
 const MOOD_OPTIONS = [
     { key: 'happy', kaomoji: '😆', label: '开心', color: '#FFD93D' },
-    { key: 'excited', kaomoji: '🥰', label: '兴奋', color: '#FF6B6B' },
+    { key: 'excited', kaomoji: '🤩', label: '兴奋', color: '#FF6B6B' },
     { key: 'peace', kaomoji: '☺️', label: '平淡', color: '#6BCB77' },
-    { key: 'sad', kaomoji: '😕', label: '难过', color: '#4D96FF' },
-    { key: 'tired', kaomoji: '😞', label: '疲惫', color: '#8D9EFF' },
+    { key: 'sad', kaomoji: '😭', label: '难过', color: '#4D96FF' },
+    { key: 'tired', kaomoji: '😮‍💨', label: '疲惫', color: '#8D9EFF' },
     { key: 'angry', kaomoji: '😠', label: '生气', color: '#FF4757' },
     { key: 'love', kaomoji: '🥰', label: '想你', color: '#FF9A8B' },
     { key: 'busy', kaomoji: '😵‍💫', label: '忙碌', color: '#A8D8EA' },
